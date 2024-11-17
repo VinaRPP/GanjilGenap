@@ -1,6 +1,6 @@
 # GanjilGenap
 
-Vina Ramadhanti Putri Pratiwi-2410010559-5ANRBJM-Tugas 1AplikasiCekNomorGenap/Ganjil
+# Vina Ramadhanti Putri Pratiwi-2410010559-5ANRBJM-Tugas 1AplikasiCekNomorGenap/Ganjil
 
 Deskripsi Program: GUI terdiri dari JTextField untuk input angka dan tombol Cek, ketika tombol ditekan, program akan memvalidasi input dan
 menampilkan hasilnya pada JLabel
